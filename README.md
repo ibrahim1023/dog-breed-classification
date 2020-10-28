@@ -42,13 +42,13 @@ Each image has a filename that is its unique id. The dataset comprises 120 breed
 | `appenzeller` |
 | `australian_terrier` |
 
-![Image-1](https://github.com/ibrahim1023/heart-disease-classification/blob/main/preview-images/image-1.jpg?raw=true "Data Preview")
+![Image-1](https://github.com/ibrahim1023/heart-disease-classification/blob/main/preview_images/image-1.jpg?raw=true "Data Preview")
 
-![Image-2](https://github.com/ibrahim1023/heart-disease-classification/blob/main/preview-images/image-2.jpg?raw=true "Data Preview")
+![Image-2](https://github.com/ibrahim1023/heart-disease-classification/blob/main/preview_images/image-2.jpg?raw=true "Data Preview")
 
-![Image-3](https://github.com/ibrahim1023/heart-disease-classification/blob/main/preview-images/image-3.jpg?raw=true "Data Preview")
+![Image-3](https://github.com/ibrahim1023/heart-disease-classification/blob/main/preview_images/image-3.jpg?raw=true "Data Preview")
 
-![Image-4](https://github.com/ibrahim1023/heart-disease-classification/blob/main/preview-images/image-4.jpg?raw=true "Data Preview")
+![Image-4](https://github.com/ibrahim1023/heart-disease-classification/blob/main/preview_images/image-4.jpg?raw=true "Data Preview")
 
 ## Models
 
@@ -58,7 +58,7 @@ Each image has a filename that is its unique id. The dataset comprises 120 breed
 
 ## Predictions 
 
-![Prediction Image](https://github.com/ibrahim1023/heart-disease-classification/blob/main/Images/final.jpg?raw=true "Prediction")
+![Prediction Image](https://github.com/ibrahim1023/heart-disease-classification/blob/main/preview_images/final.jpg?raw=true "Prediction")
 
 ## Dependencies
 * Pandas
