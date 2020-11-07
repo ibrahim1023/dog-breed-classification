@@ -8,7 +8,7 @@ This project provides a solution to Kaggle's [Dog Breed Identification Challenge
 * [Dataset](#dataset)
 * [Features](#features)
 * [Models](#models)
-* [Graphs](#graphs)
+* [Predictions](#predictions)
 * [Dependencies](#dependencies)
 
 ## General info 
